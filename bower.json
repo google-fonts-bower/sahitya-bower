@@ -1,0 +1,17 @@
+{
+    "name": "sahitya-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Juan Pablo del Peral"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/sahitya-bower.git"
+    },
+    "description": "Sahitya font",
+    "keywords": [
+        "font",
+        "SERIF"
+    ]
+}
